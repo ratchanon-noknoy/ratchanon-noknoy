@@ -1,5 +1,3 @@
-# Ratchanon Noknoy (Film)
-
 **Computer Technical Officer**  
 Kamphaeng Phet Community Hospital | Mar 2025 – Mar 2026
 
