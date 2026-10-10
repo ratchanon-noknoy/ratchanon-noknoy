@@ -1,5 +1,4 @@
-**Kamphaeng Phet Community Hospital**
 - Built an ETL pipeline to extract, transform, and load 13,338 records from HOSxP into Thailand Health Atlas.
-- Reduced ICD-10 report retrieval time by 97% from over 1 day to under 30 minutes using SQL.
-- Leveraged LLMs to identify Blood Glucose (DTX) data across 50 tables and 400K+ records within 1 hour.
-- Led SDLC for 6 Next.js apps using AI-assisted development to deploy 1 app/month to production with CI/CD.
+- Refactored 98 undocumented PHP files to support ITA (Integrity and Transparency Assessment) compliance.
+- Developed 11 Flex Messages and an 8-grid Rich Menu using free-tier services for approximately 300 users.
+- Reduced registration-related calls by 80% allowing 4 out of 5 patients to register without calling hospital staff.
