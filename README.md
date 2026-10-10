@@ -1,7 +1,7 @@
-**Computer Technical Officer**  
-Kamphaeng Phet Community Hospital | Mar 2025 – Mar 2026
+* ![97% Time Reduction](https://img.shields.io/badge/Time_Reduction-97%25-success)
 
-* Reduced ICD-10 report retrieval time by 97%, from over 1 day to under 30 minutes, using the HOSxP database.
-* Developed SQL queries for ETL data migration of 13,338 patient records from HOSxP to Thailand Health Atlas.
-* Leveraged LLMs to identify Blood Glucose (DTX) data across 50 tables and 400K+ records within 1 hour.
-* Led SDLC for 6 Next.js apps using AI-assisted development to deploy 1 app/month to production with CI/CD.
+* ![13,338 Records Migrated](https://img.shields.io/badge/Records_Migrated-13%2C338-blue)
+
+* ![400K+ Records](https://img.shields.io/badge/Records-400K%2B-orange)
+
+* ![Monthly Deployment](https://img.shields.io/badge/Deployment-1_App%2FMonth-success)
