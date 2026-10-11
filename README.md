@@ -1,4 +1,26 @@
-- Built an ETL pipeline to extract, transform, and load 13,338 records from HOSxP into Thailand Health Atlas.
-- Refactored 98 undocumented PHP files to support ITA (Integrity and Transparency Assessment) compliance.
-- Developed 11 Flex Messages and an 8-grid Rich Menu using free-tier services for approximately 300 users.
-- Reduced registration-related calls by 80% allowing 4 out of 5 patients to register without calling hospital staff.
+# Ratchanon Noknoy
+
+**Solutions Engineer · System Integration · Healthcare IT**
+
+I design practical software solutions, modernize legacy applications, and solve data integration challenges in healthcare systems.
+
+### Focus
+
+* System Architecture & API Integration
+* Data Migration & SQL
+* Legacy Application Modernization
+* Healthcare Information Systems
+
+### Selected Work
+
+* Migrated **13,338 records** to MOPH Cloud with PDPA considerations.
+* Designed a Next.js migration approach with **zero infrastructure cost**.
+* Reverse-engineered **1,000+ database tables** using AI-assisted analysis, validating findings with clinical staff.
+
+### Tech Stack
+
+`Next.js` `JavaScript` `PHP` `SQL` `MySQL` `PostgreSQL` `Git`
+
+### Links
+
+[Portfolio](https://ratchanon-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/)
