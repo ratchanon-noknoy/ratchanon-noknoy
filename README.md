@@ -15,11 +15,10 @@ I design practical software solutions, modernize legacy applications, and solve 
 
 * Migrated **13,338 records** to MOPH Cloud with PDPA considerations.
 * Designed a Next.js migration approach with **zero infrastructure cost**.
-* Reverse-engineered **1,000+ database tables** using AI-assisted analysis, validating findings with clinical staff.
 
 ### Tech Stack
 
-`Next.js` `JavaScript` `PHP` `SQL` `MySQL` `PostgreSQL` `Git`
+`Next.js` `JavaScript` `PHP` `SQL` `MySQL` `MariaDB` `Git`
 
 ### Links
 
