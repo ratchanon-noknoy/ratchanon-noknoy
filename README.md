@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Ratchanon Noknoy! 👋
+# Hi there, I'm Ratchanon Noknoy! 👋
 ### Data & Software Engineer | Building Scalable, High-Impact Healthcare Solutions
 
 <p align="left">
@@ -11,6 +11,19 @@
 ### 🚀 About Me
 I am a **Data & Software Engineer** passionate about transforming chaotic, legacy healthcare data into high-performance web applications and optimized databases. From modernizing hospital workflows to writing high-efficiency SQL queries that turn 24-hour operations into minutes, I focus on delivering tangible, high-impact results with zero-dollar infrastructure costs.
 
+---
+### 📈 Metrics & Impact That Matter
+
+```text
+========================================================================
+⚡ PERFORMANCE & ENGINEERING METRICS
+========================================================================
+[🚀 Database Speedup] ███████████████████████████████████▒ 97.9% Reduction
+[🎯 Data Migration ] ████████████████████████████████████ 99.9% Accuracy
+[📞 Workload Relief] ████████████████████████████████▒   80.0% Call Drop
+[💸 Cloud Overhead ] ------------------------------------ \$0.00 (Free Tier)
+========================================================================
+```
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -38,16 +51,8 @@ I am a **Data & Software Engineer** passionate about transforming chaotic, legac
 
 ---
 
-### 📈 Metrics & Impact That Matter
 
-```text
-⚡ Query Optimization : [██████████████████████████████] 97.9% Speedup (24 hrs ➡️ 30 mins)
-🎯 Data Migration    : [██████████████████████████████] 99.9% Accuracy (13k+ patient records)
-💰 Cloud Infrastructure: [                                ] $0 Cost via Vercel & Free Tiers
-📋 Legacy Refactoring : [██████████████████████████████] Passed 2024 Budget Evaluation
-```
 
----
 
 ### 💼 Professional Experience
 
@@ -70,6 +75,3 @@ I am a **Data & Software Engineer** passionate about transforming chaotic, legac
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratchanon-noknoy&show_icons=true&theme=radical&rank_icon=github" alt="Ratchanon's GitHub Stats" />
-</p>
