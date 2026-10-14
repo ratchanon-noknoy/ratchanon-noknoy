@@ -21,8 +21,8 @@ I am a **Data & Software Engineer** passionate about transforming chaotic, legac
 ⚡ PERFORMANCE & ENGINEERING METRICS
 ========================================================================
 [🚀 Database Speedup] ███████████████████████████████████▒ 97.9% Reduction
-[🎯 Data Migration ] ████████████████████████████████████ 99.9% Accuracy
-[📞 Workload Relief] ████████████████████████████████▒   80.0% Call Drop
+[🎯 Data Migration ] █████████████████████████████████▒ 88.9% Coverage
+[📞 Workload Relief] ████████████████████████████████▒ 80.0% Call Drop
 [💸 Cloud Overhead ] ------------------------------------ \$0.00 (Free Tier)
 ========================================================================
 ```
@@ -32,7 +32,7 @@ I am a **Data & Software Engineer** passionate about transforming chaotic, legac
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="192">
       <img src="https://skillicons.dev/icons?i=js,nextjs,react,nodejs" alt="Frontend & Backend" /><br />
       <sub><b>Web Dev</b></sub>
     </td>
