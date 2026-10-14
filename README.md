@@ -33,16 +33,16 @@
 **Data & Software Engineer** · Public Health Center, Kamphaeng Phet  
 *Mar 2025 – Mar 2026*
 
-- **Database Optimization:** Optimized complex MySQL/MariaDB JOIN queries, reducing data retrieval time by **97.9%** from over 24 hours to under 30 minutes.
-- **AI-Assisted Data Discovery:** Located critical DTX data across **50+ undocumented tables** and **400,000+ legacy records** in under 10 minutes using LLM-assisted analysis.
-- **Data Migration:** Developed optimized SQL scripts to migrate **13,338 sensitive patient records (PII)** to the Thailand Health Atlas, achieving **88.9% coverage** of the 15,000-record target.
-- **Full-Stack Development:** Developed **6 web applications** from requirements gathering to deployment using Next.js, REST APIs, and the Vercel free tier, with **$0 in infrastructure costs**.
+- Optimized complex MySQL/MariaDB JOIN queries, reducing data retrieval time by **97.9%** from over 24 hours to under 30 minutes.
+- Located critical DTX data across **50+ undocumented tables** and **400,000+ legacy records** in under 10 minutes using LLM-assisted analysis.
+- Developed optimized SQL scripts to migrate **13,338 sensitive patient records (PII)** to the Thailand Health Atlas, achieving **88.9% coverage** of the 15,000-record target.
+- Developed **6 web applications** from requirements gathering to deployment using Next.js, REST APIs, and the Vercel free tier, with **$0 in infrastructure costs**.
 
 **Programmer Intern** · Kosamphi Nakhon Hospital, Kamphaeng Phet  
 *Jun 2024 – Sep 2024*
 
-- **Legacy Refactoring:** Refactored **98 undocumented PHP files** to support the hospital's 2024 annual budget evaluation.
-- **Cross-functional Collaboration:** Worked with head nurses, health insurance supervisors, and teams across **2+ hospital departments**.
+- Refactored **98 undocumented PHP files** to support the hospital's 2024 annual budget evaluation.
+- Worked with head nurses, health insurance supervisors, and teams across **2+ hospital departments**.
 
 ---
 
